@@ -1,0 +1,4 @@
+name = "EntityResolution"
+uuid = "28fe1255-c613-426f-ac73-c2533cdefb1f"
+authors = ["paulstey <paulstey@gmail.com>"]
+version = "0.1.0"
