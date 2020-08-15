@@ -2,3 +2,6 @@ name = "EntityResolution"
 uuid = "28fe1255-c613-426f-ac73-c2533cdefb1f"
 authors = ["paulstey <paulstey@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+StringDistances = "88034a9c-02f8-509d-84a9-84ec65e18404"

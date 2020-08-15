@@ -1,5 +1,7 @@
 module EntityResolution
 
-greet() = print("Hello World!")
+include("entity/entity.jl")
+
+
 
 end # module
